@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, fellow developers!
 
-<!--
-**grantis/grantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with a passion for building educational platforms and scalable web applications. I enjoy turning complex problems into simple, beautiful solutions.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+- **Frontend:** React, Angular, Vue, Svelte
+- **Backend:** Node.js, Python
+- **Cloud:** AWS, GSP, Linode
+- **Special Powers:** Making front-ends with form and function
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm About
+- Building performant web apps that users love
+- Crafting clean, maintainable code
+- Making the web more accessible
+- Sharing knowledge with the dev community
+
+## 🌱 Currently
+- Exploring AI technology
+- Contributing to open source
+- Always learning new things!
+
+## 📫 Let's Connect
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
+
+```javascript
+while (alive) {
+  coffee.drink();
+  code.write();
+  knowledge.share();
+}
+```
